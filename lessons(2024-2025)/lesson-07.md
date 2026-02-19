@@ -3,7 +3,7 @@
 
 ## Objective
 By the end of this 1.5 hour class, students will:
-- Apply skills from lessons 1-5 to create their own unique 3D project
+- Apply skills from lessons 1-6 to create their own unique 3D project
 - Practice planning and executing a creative idea
 - Reinforce knowledge of meshes, transforms, lights, materials, and basic animation
 

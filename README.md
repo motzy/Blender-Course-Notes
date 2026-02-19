@@ -38,61 +38,58 @@ Here's a quick overview of what you'll learn in each lesson:
 1. **Lesson 01: Introduction to Blender**  
    Learn the basics of Blender's user interface and navigation.
 
-2. **Lesson 02: Lighting Basics**  
+2. **Lesson 02: Lighting and Animation  Basics**  
    Discover how to set up and manipulate lights to illuminate your scene. Learn about different light types (e.g., Point, Sun, Spot) and how they affect the look and feel of your models.
 
-3. **Lesson 03: Adding Materials and Textures**  
+3. **Lesson 03: Intro to Materials and Textures**  
    Learn how to apply and customize materials to give your 3D objects realistic (or stylized) surfaces. Explore the Blender Material Editor and understand shaders, colors, and textures.
 
-4. **Lesson 04: Edit Mode and Transformations**  
-   Explore Blender’s Edit Mode and learn how to make detailed adjustments to your models.
+4. **Lesson 04: Object Mode and Transformations**  
+   Explore Blender’s Object Mode and practice transforming objects. Build a robot out of shapes.
 
-5. **Lesson 05: Working with Meshes**  
-   Dive into mesh objects and learn how to manipulate their geometry.
+5. **Lesson 05: Working with Meshes and Edit Mode**  
+   Dive into Edit Mode and learn how to manipulate their geometry and make detailed adjustments to your models.
 
 6. **Lesson 06: Introduction to Modifiers**  
    Use Blender’s modifier system to enhance your models non-destructively.
 
-7. **Lesson 07: Camera Control**  
-   Master camera placement and settings for great scene composition.
+7. **Lesson 07: Apply What You've Learned So Far**  
+   Apply skills from previous lessons and reinforce the basic skills.
 
-8. **Lesson 08: Introduction to Rendering**  
-   Render your first scene and understand the basics of rendering settings.
+8. **Lesson 08: UV Unwrapping & Textures**  
+   Understand how to properly unwrap your models for texturing.
 
-9. **Lesson 09: Working with Curves**  
-   Learn how to create and manipulate curves in Blender.
+9. **Lesson 09: Sculpting Basics**  
+   Discover Blender's powerful sculpting tools for organic shapes.
 
-10. **Lesson 10: Sculpting Basics**  
-    Discover Blender's powerful sculpting tools for organic shapes.
+10. **Lesson 10: Working with Curves (Grease Pencil optional)**  
+    Learn how to create and manipulate curves in Blender.
 
-11. **Lesson 11: Vertex Groups and Weight Painting**  
+11. **Lesson 11: Rigging and Weight Painting**  
     Learn to group vertices and paint weights for better control of your meshes.
 
-12. **Lesson 12: UV Unwrapping**  
-    Understand how to properly unwrap your models for texturing.
-
-13. **Lesson 13: Introduction to Animation**  
-    Create basic animations using keyframes and Blender’s timeline.
-
-14. **Lesson 14: Working with the Graph Editor**  
-    Fine-tune your animations with Blender’s Graph Editor.
-
-15. **Lesson 15: Rigging a Character**  
+12. **Lesson 12: Animation - Blocking & Keyframes**  
     Learn the basics of character rigging and armatures.
 
-16. **Lesson 16: Introduction to Particles**  
+13. **Lesson 13: Animation Polish - Graph Editor and Dope Sheet**  
+    Create basic animations using keyframes and Blender’s timeline.
+
+14. **Lesson 14: Introduction to Particles**  
     Get started with particles to create effects like fire, smoke, or hair.
 
-17. **Lesson 17: Simulations (Physics)**  
+15. **Lesson 15: Simulations (Physics)**  
     Explore Blender’s physics simulations, including cloth and rigid bodies.
+
+16. **Lesson 16: Lighting and Environment Effects**  
+    Advance your lighting skills and learn to set up HDRI environments for realistic lighting.
+
+17. **Lesson 17: Camera & Rendering**  
+    Master camera placement and settings for great scene composition and understand the basics of rendering settings.
 
 18. **Lesson 18: Compositing in Blender**  
     Learn how to composite your renders directly in Blender.
 
-19. **Lesson 19: Lighting and Environment Effects**  
-    Advance your lighting skills and learn to set up HDRI environments for realistic lighting.
-
-20. **Lesson 20: Final Project - Create Your Own Scene**  
+19. **Lesson 19: Final Project - Create Your Own Scene**  
     Bring together everything you've learned to create a full 3D scene.
 
 ---
