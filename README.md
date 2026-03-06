@@ -66,13 +66,13 @@ Here's a quick overview of what you'll learn in each lesson:
     Learn how to create and manipulate curves in Blender.
 
 11. **Lesson 11: Rigging and Weight Painting**  
-    Learn to group vertices and paint weights for better control of your meshes.
+    Learn the basics of character rigging and armatures. Learn to group vertices and paint weights for better control of your meshes.
 
 12. **Lesson 12: Animation - Blocking & Keyframes**  
-    Learn the basics of character rigging and armatures.
+    Continue with character rigging and armatures. Remember and expand on animation using keyframes and timeline.
 
 13. **Lesson 13: Animation Polish - Graph Editor and Dope Sheet**  
-    Create basic animations using keyframes and Blender’s timeline.
+    Polish animations using graph editor and dope sheet.
 
 14. **Lesson 14: Introduction to Particles**  
     Get started with particles to create effects like fire, smoke, or hair.
