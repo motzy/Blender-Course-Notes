@@ -1,3 +1,4 @@
+[//]: # (TODO: make this lesson simpler, or break it up into two. Too difficult in this state.)
 # Lesson 12: Animation - Blocking & Keyframes
 
 ## Objective
@@ -7,7 +8,7 @@ By the end of this lesson, students will:
 - Understand what keyframes are and how animation works
 - Learn the difference between blocking and polished animation
 - Animate a rigged character using poses
-- Use the Timeline and Dope Sheet
+- Use the Timeline
 - Create a short character animation (wave, jump, or walk cycle)
 
 ## Materials Needed
