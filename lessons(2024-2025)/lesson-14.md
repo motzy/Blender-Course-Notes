@@ -283,7 +283,7 @@ Now try some of these variations:
 
 **Too slow?**
 - Reduce the **Number** of particles
-- Lower the **Viewport Display %** (in Particle Properties → Viewport Display)
+- Lower the **Amount %** (in Particle Properties → Viewport Display)
 - This shows fewer particles in the viewport but renders them all
 
 ### Making It Loop
@@ -298,6 +298,7 @@ Don't want to see the sphere emitter?
 1. Select the emitter
 2. Press <kbd>H</kbd> to hide it (press <kbd>Alt</kbd>+<kbd>H</kbd> to unhide)
 3. Or in Outliner, click the eye icon next to the object
+4. In **Viewport Display** re-select Display As and uncheck Show Emitter
 
 ### Baking Particles (Advanced)
 
