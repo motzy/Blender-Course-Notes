@@ -1,5 +1,5 @@
 
-# Lesson 18: Fireworks Time! Make Explosions with Particle Effects
+# Optional B: Lighting and Environment Effects
 
 ## Objective
 In this lesson, students will learn how to create a make.

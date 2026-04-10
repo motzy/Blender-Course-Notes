@@ -1,5 +1,5 @@
 
-# Lesson 20: Grand Finale
+# Optional D: Compositing in Blender
 
 ## Objective
 In this lesson, students will learn how to create a design,.

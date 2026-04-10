@@ -1,8 +1,8 @@
 
-# Lesson 17: Bend and Stretch
+# Optional C: Camera & Rendering (Advanced)
 
 ## Objective
-In this lesson, students will learn how to create a stretch:.
+In this lesson, students will learn how to create a add.
 
 ## Materials Needed
 - Blender Software
@@ -11,8 +11,8 @@ In this lesson, students will learn how to create a stretch:.
 ## Steps
 1. **Introduction**: Overview of the lesson and what students will create.
 2. **Concept Explanation**: Explanation of relevant 3D concepts or Blender tools.
-3. **Hands-on Task**: Students will follow along to bend and stretch: make your character wave with rigging.
+3. **Hands-on Task**: Students will follow along to final touches: add special effects to your 3d scene.
 4. **Conclusion**: Review what students have learned and discuss potential next steps.
 
 ## Homework
-- Apply what you learned to experiment more by making a variation of your stretch:.
+- Apply what you learned to experiment more by making a variation of your add.

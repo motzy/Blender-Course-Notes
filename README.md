@@ -1,14 +1,14 @@
-# CoderDojo Port - Blender Course: Foundational Skills in 20 Lessons
+# CoderDojo Port - Blender Course: Foundational Skills in 15 Lessons
 
 ![Banner](https://www.blender.org/wp-content/uploads/2019/07/blender_render-1280x720.jpg?x12104)
 
-Welcome to the **Blender Beginner Course** repository! 🎉 This course is designed to introduce you to the powerful 3D modeling software, **Blender**, through 20 fun, practical lessons. Whether you’re new to 3D art or simply want to explore the creative possibilities of Blender, this course will guide you through the essential tools and techniques needed to get started.
+Welcome to the **Blender Beginner Course** repository! 🎉 This course is designed to introduce you to the powerful 3D modeling software, **Blender**, through 15 fun, practical lessons. Whether you’re new to 3D art or simply want to explore the creative possibilities of Blender, this course will guide you through the essential tools and techniques needed to get started.
 
 ---
 
 ## 🖥️ Course Overview
 
-This course consists of **20 lessons**, where each lesson is stored in its own Markdown file (`lesson-XX.md`). By the end of the course, you'll have a solid understanding of Blender’s interface, basic modeling, texturing, lighting, and rendering techniques. Each lesson is hands-on and encourages you to build your skills step-by-step.
+This course consists of **15 core lessons**, where each lesson is stored in its own Markdown file (`lesson-XX.md`). By the end of the course, you’ll have a solid understanding of Blender’s interface, basic modeling, texturing, lighting, and rendering techniques. Each lesson is hands-on and encourages you to build your skills step-by-step. There are also **optional bonus lessons** for those who want to go further into topics like physics simulations, advanced lighting, and compositing.
 
 ---
 
@@ -77,20 +77,26 @@ Here's a quick overview of what you'll learn in each lesson:
 14. **Lesson 14: Introduction to Particles**  
     Get started with particles to create effects like fire, smoke, or hair.
 
-15. **Lesson 15: Simulations (Physics)**  
-    Explore Blender’s physics simulations, including cloth and rigid bodies.
+15. **Lesson 15: Final Project - Finish Your Own Scene**
+    Bring together everything you’ve learned to create or finish your own 3D scene. Learn the basics of rendering to produce a final image or animation.
 
-16. **Lesson 16: Lighting and Environment Effects**  
-    Advance your lighting skills and learn to set up HDRI environments for realistic lighting.
+---
 
-17. **Lesson 17: Camera & Rendering**  
-    Master camera placement and settings for great scene composition and understand the basics of rendering settings.
+## 🎁 Optional Bonus Lessons
 
-18. **Lesson 18: Compositing in Blender**  
-    Learn how to composite your renders directly in Blender.
+These lessons are for students who want to explore more advanced topics beyond the core curriculum. They can be tackled in any order after completing the main lessons.
 
-19. **Lesson 19: Final Project - Create Your Own Scene**  
-    Bring together everything you've learned to create a full 3D scene.
+- **Optional A: Simulations (Physics)**
+  Explore Blender’s physics simulations, including cloth and rigid bodies.
+
+- **Optional B: Lighting and Environment Effects**
+  Advance your lighting skills and learn to set up HDRI environments for realistic lighting.
+
+- **Optional C: Camera & Rendering (Advanced)**
+  Master camera placement and settings for great scene composition and dive deeper into rendering settings.
+
+- **Optional D: Compositing in Blender**
+  Learn how to composite your renders directly in Blender using the node-based compositor.
 
 ---
 
